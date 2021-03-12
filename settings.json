@@ -1,0 +1,49 @@
+{
+	"windows.zoomlevel": 2,
+	"editor.fontSize": 18,
+	"editer.tabsize": 1,
+	"diffEditor.wordWrap": "on",
+	"editor.wordWrap": "on",
+	"diffEditor.codeLens": true,
+	"editor.formatOnSave": true,
+	"editor.formatOnPaste": true,
+	"editor.suggestSelection": "first",
+	"editor.minimap.enabled": false,
+	"highlight-matching-tag.styles": {
+		"opening": {
+			"left": {
+				"custom": {
+					"borderWidth": "0 0 0 3px",
+					"borderStyle": "solid",
+					"borderColor": "yellow",
+					"borderRadius": "5px",
+					"overviewRulerColor": "white"
+				}
+			},
+			"right": {
+				"custom": {
+					"borderWidth": "0 3px 0 0",
+					"borderStyle": "solid",
+					"borderColor": "yellow",
+					"borderRadius": "5px"
+				}
+			}
+		}
+	},
+	"liveServer.settings.donotShowInfoMsg": true,
+	"git.autofetch": true,
+	"emmet.extensionsPath": "",
+	"emmet.includeLanguages": {
+		"\"emmet.includeLanguages\": {     \"javascript\": \"javascriptreact\"   },": "JavaScript",
+		"\"editor.formatOnPaste\": true,   \"editor.formatOnSave\": true,": "Prettier"
+	},
+	"files.associations": {
+		"\"emmet.includeLanguages\": {     \"javascript\": \"javascriptreact\"   },": "ES7",
+		// "\"editor.formatOnPaste\": true,   \"editor.formatOnSave\": true,": "Prettier",
+		// "\"editor.formatOnPaste\": true, \"editor.formatOnSave\": true,  \"prettier.semi\": false, \"prettier.singleQuote\": true": "JavaScript"
+		"\"editor.formatOnPaste\": true, \"editor.formatOnSave\": true,  "
+	},
+	"html.format.unformatted": "",
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"prettier.useTabs": true
+}
